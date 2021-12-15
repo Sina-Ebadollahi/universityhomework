@@ -12,8 +12,8 @@ public class algorithm7 {
         int length = scanner.nextInt();
         System.out.println("Enter the width Professor Pirahesh!");
         int width = scanner.nextInt();
-        int area = (length + width) * 2;
-        int perimeter = length * width;
+        int perimeter = (length + width) * 2;
+        int area = length * width;
         System.out.printf("Perimeter is : %d, Area is : %d ", perimeter, area);
     }
 }
