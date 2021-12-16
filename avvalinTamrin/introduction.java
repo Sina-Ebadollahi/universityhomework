@@ -1,7 +1,7 @@
 package avvalinTamrin;
 
 public class introduction {
-    introduction(){
+    public introduction(){
         intro();
     }
 
